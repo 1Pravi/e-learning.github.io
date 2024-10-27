@@ -368,7 +368,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 h1, .h1 {
-  font-size: 2.5rem;
+  font-size: 2.0rem;
 }
 
 @media (max-width: 1200px) {
@@ -9716,7 +9716,7 @@ a.text-dark:hover, a.text-dark:focus {
 h1,
 h2,
 .font-weight-bold {
-  font-weight: 700 !important;
+  font-weight: 600 !important;
 }
 
 h3,
